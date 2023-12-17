@@ -34,5 +34,17 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 4. Encerrar
 
 
-## Solução
+## Orientaçoes sobre a Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Solução
+
+As classes foram devidamente implementadas:
+1. AdicionarVeiculos
+![ClassAdicionarVeiculos](https://github.com/Fonsecach/net-fundamentos-desafio/assets/113487188/e7a19717-ccaa-4281-920b-982e5768b8bd)
+2. RemoverVeiculos
+![ClassRemoverVeiculos](https://github.com/Fonsecach/net-fundamentos-desafio/assets/113487188/a180ba0c-7efc-4a61-a9fe-07b2cfcb6cbc)
+3. Listar Veiculos
+![ClassListarVeiculos](https://github.com/Fonsecach/net-fundamentos-desafio/assets/113487188/2439780f-d89a-4222-8644-842265eb9f41)
+
+Desta forma, o programa esta funcional e atende os requisitos do desafio.
